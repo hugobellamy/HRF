@@ -1,0 +1,1 @@
+Code for the Discover Science 2024 paper Random Forests for Heteroscedastic Data. The two files in the main directory are the modified sklearn based random forests that the work is based on. The full code for the experiments is also available.
